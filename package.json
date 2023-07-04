@@ -1,0 +1,13 @@
+{
+  "name": "practica-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"babel-node index.js",
+    "dev": "nodemon --exec babel-node index.js"
+  },
+  "keywords": [],
+  "author": "Mauricio Soria",
+  "license": "ISC"
+}
